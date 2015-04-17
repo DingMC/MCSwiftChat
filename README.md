@@ -3,11 +3,10 @@ swift语言搭建聊天界面
 
 注: 本项目素材以及部分灵感来自oc版聊天界面----https://github.com/ZhipingYang/UUChatTableView/
 
-版本: 
-
-      swift1.2  
-
+版本: swift1.2  
       Xcode6.3
+      
+实现文字,图片,语音消息的发送和显示
 
 关于MCSwiftChat使用简介:
 
